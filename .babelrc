@@ -1,0 +1,11 @@
+{
+	"presets": [["@babel/preset-env", { "targets": { "node": "current" } }], "@babel/preset-react"]
+}
+
+/*{
+	"presets": [
+		"@babel/preset-renv", //ECMASCRIPT 5 y 6
+		"@babel/preset-react" //JSX
+	]
+}
+*/
